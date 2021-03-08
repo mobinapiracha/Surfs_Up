@@ -15,10 +15,26 @@ We are asked to analyze weather trends in the month of June and December to unde
 * In December we have a mean temperature of 71 degrees, a minimum of 56,maximum of 83 and a median of 71
 * Ideal temperature for surfing is around the 70s, June temperature will be best for surfing while December temperature will also work pretty well, surf and shake shop will be sustainable all year round 
 
-![](Images/December_summary.PNG)
+#### June 
 ![](Images/June_summary.PNG)
 
+#### December 
+![](Images/December_summary.PNG)
 ### Summary 
 After running descriptive statistics for weather in June and December, we find that June is a great month for surfing in Oahu, as ideal weather for surfing is when it is neither too hot or too cold (someone in the 70s), the mean and median temperature are both 74.9 and 75 in June which means there will be plenty of customers renting surf boards and buying ice cream. December temperatures are also pretty good for surfing and ice cream, the minumum of 56 is a concern but the mean and median remain around 71 which means that most days will be good for surfing. We should expect June to be busy, but looks like the business will be sustaible and will manage to operate all year long. Oahu looks like a great destination for a Surf & Shake shop. 
 
+There are a few other queries we can run in order to better understand weather data for June and December. I noticed that weather data is yearly so I decided to filter data for the past three years to uncover weather trends specific for the past 3 years. So I ran a query get data for June  for the year 2015, 2016 and 2017, each year as a separate dataframe and created line graphs for month of June for each year. For December since we did not have 2017 data available we queried data for 2014, 2015 and 2016 and visualized this data with line graphs for the month of December for each year. 
 
+### June Query and Graphs 
+
+![](Images/June_yearly_queries.PNG)
+![](Images/June_2015.PNG)
+![](Images/June_2016.PNG)
+![](Images/June_2017.PNG)
+
+### December Query and Graphs 
+
+![](Images/December_yearly_queries.PNG)
+![](Images/December_2014.PNG)
+![](Images/December_2015.PNG)
+![](Images/December_2016.PNG)
