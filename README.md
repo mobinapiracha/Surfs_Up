@@ -19,5 +19,6 @@ We are asked to analyze weather trends in the month of June and December to unde
 ![](Images/June_summary.PNG)
 
 ### Summary 
+After running descriptive statistics for weather in June and December, we find that June is a great month for surfing in Oahu, as ideal weather for surfing is when it is neither too hot or too cold (someone in the 70s), the mean and median temperature are both 74.9 and 75 in June which means there will be plenty of customers renting surf boards and buying ice cream. December temperatures are also pretty good for surfing and ice cream, the minumum of 56 is a concern but the mean and median remain around 71 which means that most days will be good for surfing. We should expect June to be busy, but looks like the business will be sustaible and will manage to operate all year long. Oahu looks like a great destination for a Surf & Shake shop. 
 
 
